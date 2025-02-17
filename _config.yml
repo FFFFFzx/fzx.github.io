@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
   name             : "Zhenxuan Fan"
+  avatar           : "https://fffffzx.github.io/images/zhenxuanfan.jpg"
   pronouns         : # example: "she/her"  
   bio              : "senior undergraduate student"
   location         : "Shenyang, China"
